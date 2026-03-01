@@ -89,9 +89,6 @@
     typeEffect();
     function reveal() {const reveals = document.querySelectorAll(".reveal");for (let i = 0; i < reveals.length; i++) {const windowHeight = window.innerHeight;const elementTop = reveals[i].getBoundingClientRect().top;const elementVisible = 100;if (elementTop < windowHeight - elementVisible) {reveals[i].classList.add("active");}}}window.addEventListener("scroll", reveal);reveal();
     function createHeart() {const heart = document.createElement("div");heart.classList.add("heart");heart.innerHTML = "💗";heart.style.left = Math.random() * 100 + "vw";heart.style.animationDuration = Math.random() * 3 + 2 + "s";document.body.appendChild(heart);setTimeout(() => {heart.remove();}, 5000);}setInterval(createHeart, 500);
-<audio controls>
-  <source src="duong-dan-file-nhac.mp3" type="audio/mpeg">
-</audio>
 </script>
 </body>
 </html>
