@@ -71,6 +71,13 @@
             <p>📱 Zalo: 0327748643</p>
         </div>
    </section>
+   <section id="dream">
+        <h3>Ước mơ</h3>
+        <div class="dream">
+            ✨ Ước mơ của mình là: <b>Sống không thiếu tiền</b> 💸💖<br>
+            Luôn cố gắng học tập và phát triển bản thân để đạt được điều đó 🌟
+        </div>
+   </section>
    <section id="social" class="reveal">
         <h3>Kết nối với mình</h3>
         <div class="social">
@@ -79,6 +86,15 @@
             <a href="https://www.tiktok.com/@hong1650?_r=1&_t=ZS-94JYGQXQSuK" target="_blank">TikTok</a>
         </div>
    </section>
+   <section id="contact">
+        <h3>Gửi tin nhắn cho mình</h3>
+        <form>
+            <input type="text" placeholder="Tên của bạn" required>
+            <input type="email" placeholder="Email" required>
+            <textarea rows="4" placeholder="Nội dung"></textarea>
+            <button type="submit">Gửi</button>
+        </form>
+    </section>
 </div>
 <script>
     const text = "Học sinh | Yêu công nghệ | Thích nghe nhạc & đọc sách 💖";
