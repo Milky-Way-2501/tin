@@ -62,23 +62,23 @@
     <section id="about" class="reveal">
         <h3>Giới thiệu</h3>
         <div class="info">
-    <p>📅 Ngày sinh: 16/5/2008</p>
-    <p>🏫 Trường: THPT Số 2 Tư Nghĩa</p>
-    <p>🎓 Nghề nghiệp: Học sinh</p>
-    <p>🏠 Địa chỉ: Trà Giang, Tư Nghĩa, Quảng Ngãi</p>
-    <p>🎯 Sở thích: Nghe nhạc, đọc sách</p>
-    <p>🌱 Mục tiêu: Phấn đấu trở thành công dân có ích cho xã hội</p>
-    <p>📱 Zalo: 0327748643</p>
-</div>
-</section>
-    <section id="social" class="reveal">
+            <p>📅 Ngày sinh: 16/5/2008</p>
+            <p>🏫 Trường: THPT Số 2 Tư Nghĩa</p>
+            <p>🎓 Nghề nghiệp: Học sinh</p>
+            <p>🏠 Địa chỉ: Trà Giang, Tư Nghĩa, Quảng Ngãi</p>
+            <p>🎯 Sở thích: Nghe nhạc, đọc sách</p>
+            <p>🌱 Mục tiêu: Phấn đấu trở thành công dân có ích cho xã hội</p>
+            <p>📱 Zalo: 0327748643</p>
+        </div>
+   </section>
+   <section id="social" class="reveal">
         <h3>Kết nối với mình</h3>
         <div class="social">
             <a href="https://www.facebook.com/thanh.hong.607741/?locale=vi_VN" target="_blank">Facebook</a>
             <a href="https://locket.camera/links/5MLa2bLV4FkXHc7FA" target="_blank">Locket</a>
             <a href="https://www.tiktok.com/@hong1650?_r=1&_t=ZS-94JYGQXQSuK" target="_blank">TikTok</a>
         </div>
-    </section>
+   </section>
 </div>
 <script>
     const text = "Học sinh | Yêu công nghệ | Thích nghe nhạc & đọc sách 💖";
