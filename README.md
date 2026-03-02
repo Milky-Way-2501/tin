@@ -80,7 +80,7 @@
    </section>
    <section id="video" class="reveal">
        <h3>🎵 Âm nhạc yêu thích</h3>
-       <iframe width="900" height="500" src="https://www.youtube.com/embed/f9P7_qWrf38?si=rOE04V5R2rqGiiIE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+       <iframe width="800" height="500" src="https://www.youtube.com/embed/f9P7_qWrf38?si=rOE04V5R2rqGiiIE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
    </section>
    <section id="social" class="reveal">
         <h3>Kết nối với mình</h3>
