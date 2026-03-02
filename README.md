@@ -78,6 +78,10 @@
             Sống hết mình để sau này nhìn lại không hổ thẹn với lòng. Tuổi trẻ không xông pha thì về già có gì để kể.🌟
         </div>
    </section>
+   <section id="video" class="reveal">
+       <h3>🎵 Âm nhạc yêu thích</h3>
+       <iframe width="560" height="315" src="https://www.youtube.com/embed/f9P7_qWrf38?si=rOE04V5R2rqGiiIE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+   </section>
    <section id="social" class="reveal">
         <h3>Kết nối với mình</h3>
         <div class="social">
@@ -86,15 +90,6 @@
             <a href="https://www.tiktok.com/@hong1650?_r=1&_t=ZS-94JYGQXQSuK" target="_blank">TikTok</a>
         </div>
    </section>
-   <section id="contact">
-        <h3>Gửi tin nhắn cho mình</h3>
-        <form>
-            <input type="text" placeholder="Tên của bạn" required>
-            <input type="email" placeholder="Email" required>
-            <textarea rows="4" placeholder="Nội dung"></textarea>
-            <button type="submit">Gửi</button>
-        </form>
-    </section>
 </div>
 <script>
     const text = "Học sinh | Yêu công nghệ | Thích nghe nhạc & đọc sách 💖";
