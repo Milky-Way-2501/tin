@@ -75,7 +75,7 @@
         <h3>Ước mơ</h3>
         <div class="dream">
             ✨ Ước mơ của mình là: <b>Sống không thiếu tiền</b> 💸💖<br>
-            Luôn cố gắng học tập và phát triển bản thân để đạt được điều đó 🌟
+            Sống hết mình để sau này nhìn lại không hổ thẹn với lòng. Tuổi trẻ không xông pha thì về già có gì để kể.🌟
         </div>
    </section>
    <section id="social" class="reveal">
